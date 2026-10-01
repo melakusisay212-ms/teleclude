@@ -1,0 +1,7 @@
+[
+ {"body":"[-EBIRR-KAAFI-] Transfer ID: 802520883630, You have successfuly sent airtime top-up of ETB5 to 251981801919","expect":"COUNT","amount":5},
+ {"body":"[-EBIRR-KAAFI-] Transfer ID: 802520883630, You have received airtime top-up of ETB5 from 251981801919","expect":"IGNORE"},
+ {"body":"[-EBIRR-KAAFI-] You have recharged ETB5 to 251981801919, your balance is ETB3.6","expect":"REFERENCE","amount":5},
+ {"body":"You have transferred ETB 10.00 to RUTA TAKELE (2519****3230) on 11/09/2026 21:21:46.","expect":"IGNORE"},
+ {"body":"Please enjoy 1GB internet, 20 Min and 20 SMS package Free gift, valid for 24-hours.","expect":"IGNORE"}
+]
